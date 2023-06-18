@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mernport/static/css/main.b08c313a.css",
+    "main.js": "/mernport/static/js/main.2cd97f18.js",
+    "static/media/img2.png": "/mernport/static/media/img2.4e9137b4e2a4f551543d.png",
+    "static/media/intern.jpeg": "/mernport/static/media/intern.18d90f309d4e9161cdb3.jpeg",
+    "static/media/img5.png": "/mernport/static/media/img5.86e14480d88e4fcd0f3f.png",
+    "static/media/study.jpg": "/mernport/static/media/study.7c43e87f683b2e0628e9.jpg",
+    "static/media/ayush.jpg": "/mernport/static/media/ayush.cb239ed515d4e3a4c945.jpg",
+    "index.html": "/mernport/index.html",
+    "main.b08c313a.css.map": "/mernport/static/css/main.b08c313a.css.map",
+    "main.2cd97f18.js.map": "/mernport/static/js/main.2cd97f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08c313a.css",
+    "static/js/main.2cd97f18.js"
+  ]
+}
